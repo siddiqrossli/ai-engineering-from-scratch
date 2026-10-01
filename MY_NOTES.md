@@ -1,4 +1,4 @@
-# My Learning Notes
+# My AI Engineering Notes
 
 ## Git
 - A commit is a snapshot
