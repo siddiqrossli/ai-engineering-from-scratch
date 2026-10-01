@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # My AI Engineering Notes
 
 ## Git
