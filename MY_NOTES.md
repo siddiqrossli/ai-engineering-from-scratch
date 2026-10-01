@@ -1,4 +1,4 @@
-# My Learning Notes
+# Siddiq's Git Notes
 
 ## Git
 - A commit is a snapshot
